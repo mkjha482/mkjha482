@@ -2,7 +2,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mkjha482&show_icons=true&theme=tokyonight">
 
-<img width="47%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkjha482&layout=compact">
+<img width="47%" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkjha482&layout=compact">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
