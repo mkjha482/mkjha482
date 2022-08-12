@@ -28,4 +28,5 @@
 <a href="https://www.linkedin.com/in/mayank-jha-9181341b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a><br/>
 <img src="https://img.shields.io/badge/mkjha482@gmail.com-039BE5?style=for-the-badge&logo=Gmail&logoColor=white"><br/>
 <a href="https://twitter.com/Mayank__jha__56"><img src="https://img.shields.io/badge/Twitter-039BE5?style=for-the-badge&logo=Twitter&logoColor=white"></a><br/>
+<a href="https://wa.me/919031838924"><img src="https://img.shields.io/badge/Whatsapp-039BE5?style=for-the-badge&logo=Whatsapp&logoColor=white"></a><br/>
 </p>
