@@ -22,7 +22,7 @@
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img alt="GCP" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
-<img alt="Android Studio" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg">
+<img alt="Android Studio" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" width="30" height="30">
 </p>
 
 <h3 align="left">Connect with me</h3>
