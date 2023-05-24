@@ -25,6 +25,10 @@
 <img alt="Android Studio" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="70" height="70">
 </p>
 
+<p>
+<h4 align="left">My Portfolio<h4>
+</p>
+  
 <h3 align="left">Connect with me</h3>
 <p>
 <a href="https://www.linkedin.com/in/mayank-jha-9181341b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a><br/>
