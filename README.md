@@ -26,7 +26,7 @@
 </p>
 
 <p>
-<h3 align="left">My Portfolio : https://mayank-jha-portfolio.netlify.app/ <h3>
+<h3 align="left">My Portfolio : https://mayank-jha-portfolio.netlify.app/   or  https://mkjha482.github.io/Portfolio  <h3>
 </p>
   
 <h3 align="left">Connect with me</h3>
